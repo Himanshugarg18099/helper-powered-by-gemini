@@ -1,0 +1,7 @@
+{
+  "name": "Copy of helper powered by gemini ",
+  "description": "A powerful chat application featuring memory, image analysis, and Gemini native Text-to-Speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
